@@ -1,8 +1,0 @@
-int main()
-{
-  include<iostream>
-  using namespace std
-  cout << "hello world!“;
-  cout << endl;
-  return 0;
-}
