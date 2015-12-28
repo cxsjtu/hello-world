@@ -1,0 +1,2 @@
+hi.C
+EXE=$(FOAM_BIN)/hiFoam
